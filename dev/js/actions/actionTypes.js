@@ -1,5 +1,0 @@
-/*jshint esversion: 6 */
-
-export const ADD_TODO = 'ADD_TODO';
-export const TOGGLE_TODO = 'TOGGLE_TODO';
-export const FILTER_TODOS = 'FILTER_TODOS';
